@@ -15,6 +15,6 @@ Run this script on your SWF to check if the swf has debug enabled.
 
 ### Usage
 
-        ./add-opt-debug.py swf_file
+        ./is-swf-debug-enabled swf_file
 
 Output text will indicate if SWF has debug enabled.
