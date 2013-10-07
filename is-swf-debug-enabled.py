@@ -29,6 +29,11 @@
 # NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+#
+#  Modification of add-opt-in.py from https://github.com/adamcath/telemetry-utils
+#  Author: ron.vergis@gmail.com
+#
+
 '''See readme or run with no args for usage'''
 
 import os
@@ -161,3 +166,5 @@ if __name__ == "__main__":
 		print("swftype is DEBUG ENABLED")
 	else:
 		print("swf is NOT DEBUG ENABLED")
+
+__author__      = "Ron Vergis (ron.vergis@gmail.com)"
